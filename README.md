@@ -1,6 +1,4 @@
-Here is the complete, ready-to-use `README.md` file. You can copy the content inside the block below and paste it directly into your repository.
-
-```markdown
+```
 # DnDsCODes 🧬
 
 **DnDsCODes** is a Python package developed to automate and simplify the preprocessing of sequence alignments and phylogenetic trees. It prepares your structural data for natural selection (dN/dS) and genomic epidemiology downstream analyses in software such as PAML and HyPhy.
