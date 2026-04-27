@@ -87,7 +87,8 @@ Performs redundancy removal, stop codon exclusion, and prunes the phylogenetic t
 ```bash
 python -m DnDsCODes --ALN_FASTA_FILE my_alignment.fasta --TREE_FILE my_tree.nwk
 ```
-*Outputs:* * `aln_pruned_withoutStop.fasta` 
+**Outputs:**
+* `aln_pruned_withoutStop.fasta` 
 * `pruned_tree.nwk`
 
 ### Example 2: Full Pipeline
@@ -101,7 +102,7 @@ python -m DnDsCODes \
   --ROOT_TREE \
   --SPLIT_BY_YEAR
 ```
-*Outputs (for each detected year, e.g., 2020, 2021):
+**Outputs (for each detected year, e.g., 2020, 2021):**
 * `2020_aln_pruned_withoutStop.fasta`
 * `2020_aln_pruned_withoutStop.phy`
 * `2020_pruned_tree.nwk`
