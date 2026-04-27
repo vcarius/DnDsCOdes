@@ -101,7 +101,8 @@ python -m DnDsCODes \
   --ROOT_TREE \
   --SPLIT_BY_YEAR
 ```
-*Outputs (for each detected year, e.g., 2020, 2021):* * `2020_aln_pruned_withoutStop.fasta`
+*Outputs (for each detected year, e.g., 2020, 2021):
+* `2020_aln_pruned_withoutStop.fasta`
 * `2020_aln_pruned_withoutStop.phy`
 * `2020_pruned_tree.nwk`
 * `2020_rooted_tree.nwk`
