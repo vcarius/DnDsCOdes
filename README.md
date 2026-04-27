@@ -43,7 +43,7 @@ ete3 build check
 After cloning this repository, navigate to the package's main directory and install it in editable mode:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/DnDsCODes.git](https://github.com/YOUR_USERNAME/DnDsCODes.git)
+git clone [https://github.com/vcarius/DnDsCOdes.git](https://github.com/vcarius/DnDsCOdes.git)
 cd DnDsCODes
 pip install -e .
 ```
