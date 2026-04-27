@@ -1,4 +1,3 @@
-```
 # DnDsCODes 🧬
 
 **DnDsCODes** is a Python package developed to automate and simplify the preprocessing of sequence alignments and phylogenetic trees. It prepares your structural data for natural selection (dN/dS) and genomic epidemiology downstream analyses in software such as PAML and HyPhy.
@@ -111,4 +110,3 @@ python -m DnDsCODes \
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open *Issues* reporting bugs, suggesting new features, or submitting *Pull Requests*.
-```
