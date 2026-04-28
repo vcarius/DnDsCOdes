@@ -13,7 +13,7 @@
 
 ---
 
-## ⚙️ Prerequisites and Installation
+## ⚙️ Requirements and Installation
 
 We highly recommend using `conda` (Miniconda or Anaconda) to manage your environment and dependencies, ensuring no package conflicts occur.
 
